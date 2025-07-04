@@ -82,12 +82,12 @@ Both datasets are merged by date to label each trading day with a sentiment clas
 - Project_Summary_for_clients.pdf : Project Report: Trading in the Mood
 A complete analysis of how crypto trader performance varies across market sentiment states (Fear, Greed, Neutral, etc.).
 
-What’s Inside:
-- Executive summary for clients and decision-makers
-- Data sources, objectives, and analytical methodology
-- Visual insights: box plots, heatmaps, rolling averages, and more
-- Key takeaways on how sentiment influences behavior
-- Strategic recommendations for sentiment-aware trading
+      What’s Inside:
+      - Executive summary for clients and decision-makers
+      - Data sources, objectives, and analytical methodology
+      - Visual insights: box plots, heatmaps, rolling averages, and more
+      - Key takeaways on how sentiment influences behavior
+      - Strategic recommendations for sentiment-aware trading
 
 
 ---
